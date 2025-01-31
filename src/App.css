@@ -430,13 +430,12 @@ p{
 
 @media (max-width: 768px) {
   .hero {
-    background-image: url("assets/maximalfocus-HakTxidk36I-unsplash.jpg");
     background-size: cover; /* This makes the image cover the whole section */
     background-position: center; /* Centers the background image */
     background-attachment: scroll; /* Disables fixed attachment on mobile devices */
     margin-bottom: 2px;
     padding: 140px 0 10px 0;
-    min-height: 400px;
+   
   }
 }
 
