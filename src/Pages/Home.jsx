@@ -87,8 +87,8 @@ function Home() {
                 <h2>About Us</h2>
                 </div>
               <div className="col-lg-12">
-              <p st>
-              At CodeFluid Studio, we empower your brand by enhancing your digital presence, helping you build trust with new clients while strengthening connections with your existing ones. Through innovative solutions, we create a bridge between you and a broader market, ensuring growth and lasting relationships. We pride ourselves on delivering exceptional results within agreed timelines, always striving for excellence in everything we do
+              <p style={{color:"#707070"}}>
+              At <strong>CodeFluid Studio</strong>, we empower your brand by enhancing your digital presence, helping you build trust with new clients while strengthening connections with your existing ones. Through innovative solutions, we create a bridge between you and a broader market, ensuring growth and lasting relationships. We pride ourselves on delivering exceptional results within agreed timelines, always striving for excellence in everything we do.
               </p>
               </div>
               <div className='row'>

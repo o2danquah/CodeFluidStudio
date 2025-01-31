@@ -397,7 +397,7 @@ p{
 
 .hero {
 
-  background-image: url('assets/img/luke-chesser-JKUTrJ4vK00-unsplash.jpg');
+  background-image: url("assets/christopher-burns-Kj2SaNHG-hg-unsplash.jpg");
   background-size: cover; /* This makes the image cover the whole section */
   background-position: center; /* Keeps the image centered */
   background-attachment: fixed;
