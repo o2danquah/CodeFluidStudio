@@ -18,8 +18,8 @@ const [mytext] = useTypewriter({
   <div className="container">
     <div className="row justify-content-center">
       <div className="hero-text col-lg-8 text-center">
-        <h2>Turning your ideas into reality, powered by technology and driven by innovation</h2>  
-        <a href="" className="btn-get-started">Contact Me</a> 
+        <h2>Turning Your Ideas Into Reality, Powered By Technology And Driven By Innovation</h2>  
+        <a href="https://calendly.com/papa10058" className="btn-get-started" style={{textDecoration:"none"}}>Contact Us</a> 
       </div>
       <div className="col-lg-6 text-center pt-5">
         

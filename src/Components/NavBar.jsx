@@ -15,9 +15,9 @@ return (
 <div>
         <header id="header" className="header d-flex align-items-center fixed-top">
   <div className="container-fluid d-flex align-items-center justify-content-between p-0">
-    <a href="index.html" className="logo d-flex align-items-center">
+    <a href="#home" className="logo d-flex align-items-center">
       {/* Uncomment the line below if you also wish to use an image logo */}
-      <img className='' src="CodeFluid_-removebg-preview.png" alt />
+      <img className='img-fluid' src="CodeFluid_-removebg-preview.png" alt />
 
       
     </a>
