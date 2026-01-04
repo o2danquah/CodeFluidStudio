@@ -81,10 +81,16 @@ function Home() {
           <div className="col-lg-6 text-center">
             <img src="/assets/img/Chart 3.png" className="img-fluid border-bottom-0" id="border-image" alt style={{paddingRight:"30px"}} />
           </div>
+          <div className="tenor-gif-embed" data-postid="21412740" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/khaby-really-gif-21412740">Khaby Really GIF</a>from <a href="https://tenor.com/search/khaby-gifs">Khaby GIFs</a>
+          </div> 
+          <div className='text-center nothing-you-could-do-regular pt-2'>
+            You want to start a business? <br/> Need an app to streamline your online activities? <br/> Looking to enhance your digital presence?
+            <br />
+            Wetin una dey wait for? Make we build am for you today! Its a win win situation.
+          </div>
           <div className="col-lg-6 content">
             <div className="row mt-5 justify-content-center">
                 <div className="col-lg-12 text-center">
-                <h2>About Us</h2>
                 </div>
               <div className="col-lg-12">
               <p style={{color:"#707070"}}>

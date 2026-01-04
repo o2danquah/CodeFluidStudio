@@ -48,15 +48,7 @@ function Projects() {
              
               </div>
 
-              <div className=' col-lg-6 mb-3'>
-                <div className='project-cards text-center'>
-                <a href='https://reve-core.com/home/'>
-                <img src="assets/img/revecore iphone 2.png" className="img-fluid border-bottom-0" id="border-image"/>
-                <i className='bi bi-box-arrow-up-right icon-100'></i>
-                </a>
-                </div>
-             
-              </div>
+         
 
               <div className=' col-lg-6 mb-3'>
                 <div className='project-cards text-center'>

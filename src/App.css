@@ -3,6 +3,14 @@
   src: url(WantedSansVariable.woff2);
 }
 
+
+.nothing-you-could-do-regular {
+  font-family: "Nothing You Could Do", cursive;
+  
+  font-size: 25px;
+}
+
+
 #root{
   width: 100%;
 }
@@ -20,7 +28,7 @@ p{
 .header {
   transition: all 0.5s;
   z-index: 997;
-  background-color: #000;
+  background-color: #fff;
   height: 70px;
 }
 
@@ -29,7 +37,7 @@ p{
 }
 
 .header .logo img {
-  max-height: 40px;
+  max-height: 70px;
   margin-right: 8px;
 }
 
@@ -488,6 +496,11 @@ p{
 
 .hero .btn-get-started:hover {
   background: #FED049;
+}
+
+.header .logo img {
+  max-height: 120px;
+  margin-right: 8px;
 }
 
 @media (max-width: 768px) {
